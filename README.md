@@ -2,7 +2,7 @@
 
 Pure python implementation of a toy blockchain (using Object Oriented Programming style).
 
-See https://blog.coderfi.com/toy-blockchain-py-oop/
+See https://blog.coderfi.com/2018/12/07/toy-blockchain-py-oop/
 
 ## Usage
 
@@ -19,4 +19,4 @@ See https://blog.coderfi.com/toy-blockchain-py-oop/
 
 # Reference
 
-* [Coderfi Blog Toy Blockchain Python OOP](https://blog.coderfi.com/toy-blockchain-py-oop/)
+* [Coderfi Blog Toy Blockchain Python OOP](https://blog.coderfi.com/2018/12/07/toy-blockchain-py-oop/)
