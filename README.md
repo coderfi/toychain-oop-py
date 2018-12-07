@@ -6,7 +6,7 @@ See https://blog.coderfi.com/2018/12/07/toychain-py-oop/
 
 ## Usage
 
-    $ python ./blockchain.py
+    $ make run
 
     Init Blockchain[ts=1514793600]: 'Genesis Block'
 
