@@ -21,6 +21,6 @@ See https://blog.coderfi.com/2018/12/07/toychain-py-oop/
 
 * [Coderfi Blog Toychain-py-oop](https://blog.coderfi.com/2018/12/07/toychain-py-oop/)
 * [Coderfi Blog Toychain-cpp](https://blog.coderfi.com/2018/12/07/toychain-cpp/)
-* (GitHub Toychain-cpp](https://github.com/coderfi/toychain-cpp)
+* [GitHub Toychain-cpp](https://github.com/coderfi/toychain-cpp)
 * Inspired by [Testchain](https://github.com/teaandcode/TestChain)
 * Inspired by [Davenash Blog](https://davenash.com/2017/10/build-a-blockchain-with-c/)
